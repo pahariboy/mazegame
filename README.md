@@ -1,0 +1,2 @@
+# mazegame
+mazegame without graphics
